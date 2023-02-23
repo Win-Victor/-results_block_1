@@ -1,4 +1,4 @@
-﻿void PrintArray(string[] array)
+﻿git void PrintArray(string[] array)
 {
     System.Console.WriteLine($"[{string.Join(", ", array)}]");
 }
@@ -31,4 +31,3 @@ FilterArrayStringsLength(arrString1);
 FilterArrayStringsLength(arrString2);
 FilterArrayStringsLength(arrString3);
 
->>>>>>> program
