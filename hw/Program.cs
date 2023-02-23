@@ -1,4 +1,4 @@
-﻿git void PrintArray(string[] array)
+﻿void PrintArray(string[] array)
 {
     System.Console.WriteLine($"[{string.Join(", ", array)}]");
 }
